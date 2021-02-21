@@ -9,4 +9,4 @@
 > A Rikka é um projeto de aplicação para o discord, ela possui muitos comandos que te ajudam a organizar e entrenter seus usuários.
 
 ## 🤔・Que tipos de comandos ela tem?
-> A Rikka possui uma variedade de comandos desde diversão até música, ela sempre que possível recebe uma atualização na sua lista de comandos que faz com que fique bem maior.
+> A Rikka possui uma variedade de comandos, que vão desde diversão até música, ela sempre que possível recebe uma atualização na sua lista de comandos que faz com que fique bem maior.
