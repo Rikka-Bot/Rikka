@@ -5,7 +5,7 @@
 
 [![Discord Bots](https://top.gg/api/widget/770762400034848808.svg)](https://top.gg/bot/770762400034848808)
 
-# Rikka ![rikka](https://cdn.discordapp.com/attachments/782666973984325632/793500261481971742/1609255544823.png)
+# Rikka ![rikka](https://media.discordapp.net/attachments/782666973984325632/910958266937389146/coberta.png)
 ## 🤔・Quem é a Rikka?
 > **A Rikka é um projeto de aplicação para o discord, ela possui muitos comandos que te ajudam a organizar e entrenter seus usuários.**
 
